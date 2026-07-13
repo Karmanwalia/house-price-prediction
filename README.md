@@ -2,7 +2,7 @@
 
 A machine learning web app that predicts house sale prices based on key property features, built end-to-end from raw data to a deployed, interactive application.
 
-**Live app:** [Add your Streamlit Cloud link here]
+**Live app:** https://house-price-prediction-rwtsxfzewjeucylwpvizij.streamlit.app/
 **Dataset:** [Kaggle - House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 ---
